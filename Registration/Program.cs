@@ -1,5 +1,4 @@
-﻿using ElementWaiting;
-using Logger;
+﻿using Logger;
 using Login;
 using System;
 using System.Media;
@@ -8,9 +7,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
-using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium.Remote;
-using System.Net;
 
 namespace Registration
 {
