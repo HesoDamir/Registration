@@ -1,0 +1,6 @@
+﻿[24.08.2017 11:41:25.168] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] Unable to find element with css selector == div.qd-overlay-auth > button.qd-overlay-auth__close
+--------
+[24.08.2017 11:41:25.207] LOGING IS COMPLETED
+---------------------------------------------
+[24.08.2017 11:42:11.476] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] Unexpected error launching Internet Explorer. Protected Mode settings are not the same for all zones. Enable Protected Mode must be set to the same value (enabled or disabled) for all zones.
+--------
